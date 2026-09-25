@@ -1,0 +1,11 @@
+{
+  "filename": "twotone_50k_150k.iq",
+  "description": "Dual tone (+50 kHz and +150 kHz) complex baseband IQ",
+  "sample_rate_hz": 1000000.0,
+  "known_tones_hz": [
+    50000.0,
+    150000.0
+  ],
+  "dtype": "float32",
+  "ordering": "IQ"
+}

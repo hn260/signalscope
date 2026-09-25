@@ -1,0 +1,8 @@
+{
+  "filename": "fm_carrier_20khz.iq",
+  "description": "FM signal (300 kHz carrier, 5 kHz audio, delta_f=25 kHz)",
+  "sample_rate_hz": 2000000.0,
+  "carrier_baseband_hz": 300000.0,
+  "expected_obw_99_hz": 60000.0,
+  "expected_modulation": "FM (Frequency Modulated)"
+}

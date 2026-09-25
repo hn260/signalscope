@@ -1,0 +1,7 @@
+{
+  "filename": "audio_1khz_tone.wav",
+  "description": "1 kHz pure sine tone audio WAV file",
+  "sample_rate_hz": 44100,
+  "known_freq_hz": 1000.0,
+  "duration_sec": 1.0
+}

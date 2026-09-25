@@ -1,0 +1,8 @@
+{
+  "filename": "am_10khz_mod.iq",
+  "description": "AM signal (200 kHz carrier, 10 kHz audio mod, m=0.8)",
+  "sample_rate_hz": 2000000.0,
+  "carrier_baseband_hz": 200000.0,
+  "expected_obw_99_hz": 20000.0,
+  "expected_modulation": "AM (Amplitude Modulated)"
+}

@@ -1,0 +1,10 @@
+{
+  "filename": "cw_tone_100k.iq",
+  "description": "Pure single-tone CW complex baseband IQ",
+  "sample_rate_hz": 1000000.0,
+  "known_peak_baseband_freq_hz": 100000.0,
+  "dtype": "float32",
+  "ordering": "IQ",
+  "expected_obw_99_hz": 1200.0,
+  "expected_modulation": "CW / Unmodulated"
+}
